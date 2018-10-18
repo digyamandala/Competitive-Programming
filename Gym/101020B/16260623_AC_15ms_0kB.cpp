@@ -1,0 +1,14 @@
+#include <iostream>
+#define ull unsigned long long
+using namespace std;
+int main(){
+    int t;
+    cin >> t;
+    while(t--){
+        int w,h;
+        cin >> w >> h;
+        if(((ull)w*h) % 2 == 0) cout << "Hasan" << endl;
+        else cout << "Hussain" << endl;
+    }
+    return 0;
+}
