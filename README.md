@@ -1,2 +1,2 @@
 # Competitive-Programming
-From online judge
+From various online judges
